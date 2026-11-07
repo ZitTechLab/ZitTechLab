@@ -23,7 +23,7 @@
 
 ### 🦆 Giới thiệu về Zịt Tech Lab (About Us)
 
-**Zịt Tech Lab (Zịt's Tech Lab)** là một tổ chức nghiên cứu và phát triển phần mềm độc lập, hướng tới việc sáng tạo các công cụ quản trị hệ thống, tối ưu hóa hệ điều hành Windows và giải pháp hỗ trợ kỹ thuật IT Helpdesk chuyên sâu.
+**Zịt Tech Lab (Zịt's Tech Lab)** là một nhóm sinh viên nghiên cứu và phát triển phần mềm độc lập, hướng tới việc sáng tạo các công cụ quản trị hệ thống, tối ưu hóa hệ điều hành Windows và giải pháp hỗ trợ kỹ thuật IT Helpdesk chuyên sâu.
 
 - 🎯 **Sứ mệnh**: Xây dựng các giải pháp tiện ích máy tính ổn định, hiệu năng cao, đồng thời chia sẻ kiến thức kỹ thuật phần mềm hệ thống và truyền cảm hứng cho cộng đồng lập trình viên, sinh viên đam mê công nghệ.
 - ⚡ **Thế mạnh nghiên cứu**: Ứng dụng Desktop Windows native (.NET / C#), tự động hóa quản trị hệ điều hành với PowerShell, chẩn đoán & tinh chỉnh tài nguyên hệ thống.
