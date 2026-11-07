@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Zịt%20Tech%20Lab&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%26%20Windows%20Optimization%20Lab&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Zịt Tech Lab Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Zịt Tech Lab Banner" />
+
+  <br><br>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://zittechlab.com/">
@@ -94,7 +96,9 @@ Hệ sinh thái phần mềm tại **Zịt Tech Lab** (tiêu biểu là **HyperL
 <div align="center">
 
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
+
+  <br><br>
 
   <sub><i>"Empowering Systems, Optimizing Performance." — Zịt Tech Lab</i></sub>
 
