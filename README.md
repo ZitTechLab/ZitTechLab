@@ -42,7 +42,7 @@
 | :--- | :--- | :--- |
 | **[HyperLis](https://github.com/ZitTechLab/HyperLis)**<br><sub>*A Software for IT Support*</sub> | Phần mềm cứu hộ, chẩn đoán sự cố, dọn dẹp và tối ưu hóa hệ thống Windows chuyên dụng dành cho kỹ thuật viên IT Helpdesk và người dùng nâng cao. | [![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/ZitTechLab/HyperLis) [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/ZitTechLab/HyperLis)<br>[![License](https://img.shields.io/badge/License-HSAL--1.0-orange?style=flat-square)](https://github.com/ZitTechLab/HyperLis)<br>[![Stars](https://img.shields.io/github/stars/ZitTechLab/HyperLis?style=flat-square&logo=github&color=0052D4)](https://github.com/ZitTechLab/HyperLis/stargazers) [![Forks](https://img.shields.io/github/forks/ZitTechLab/HyperLis?style=flat-square&logo=github&color=4364F7)](https://github.com/ZitTechLab/HyperLis/network/members) |
 | **[HyperLis Documentation](https://github.com/ZitTechLab/HyperLis_Documentation)** | Kho tài liệu kỹ thuật, kiến trúc module và cẩm nang hướng dẫn sử dụng chi tiết hệ sinh thái phần mềm HyperLis. | [![JavaScript](https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ZitTechLab/HyperLis_Documentation) [![Docs](https://img.shields.io/badge/Type-Documentation-blue?style=flat-square)](https://github.com/ZitTechLab/HyperLis_Documentation) |
-| **[WSAP](https://github.com/ZitTechLab/WSAP)** | Bộ công cụ cài đặt Windows tự động không cần dùng đến USB Boot. | [![Automation](https://img.shields.io/badge/Category-Automation%20%26%20Utilities-512BD4?style=flat-square)](https://github.com/ZitTechLab/WSAP) |
+| **[WSAP](https://github.com/ZitTechLab/WSAP)**<br><sub>*Windows Setup Automation Protocol*</sub> | Bộ công cụ cài đặt Windows tự động không cần dùng đến USB Boot. Được nghiên cứu và phát hành lần đầu tiên vào 14-03-2026 | [![Automation](https://img.shields.io/badge/Category-Automation%20%26%20Utilities-512BD4?style=flat-square)](https://github.com/ZitTechLab/WSAP) |
 
 </div>
 
@@ -61,6 +61,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,git,github" alt="Tools & Environments" />
 </p>
+
+</div>
+
+---
+
+### 🐍 Hoạt động đóng góp (Contribution Activity)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZitTechLab/ZitTechLab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZitTechLab/ZitTechLab/output/github-contribution-grid-snake.svg" />
+  <img alt="Zịt Tech Lab GitHub Contribution Snake" src="https://raw.githubusercontent.com/ZitTechLab/ZitTechLab/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
