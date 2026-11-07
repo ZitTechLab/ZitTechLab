@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://zittechlab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4364F7&center=true&vCenter=true&width=850&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+Z%E1%BB%8Bt+Tech+Lab!+%F0%9F%A6%86;Nghi%C3%AAn+c%E1%BB%A9u+%26+Ph%C3%A1t+tri%E1%BB%83n+gi%E1%BA%A3i+ph%C3%A1p+t%E1%BB%91i+%C6%B0u+h%C3%B3a+Windows+%E2%9A%A1;D%E1%BB%B1+%C3%A1n+ch%E1%BB%A7+l%E1%BB%B1c%3A+HyperLis+(A+Software+for+IT+Support)+%F0%9F%9B%A0%EF%B8%8F;Trang+ch%E1%BB%A7+ch%C3%ADnh+th%E1%BB%A9c%3A+zittechlab.com+%F0%9F%8C%90" alt="Zịt Tech Lab Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4364F7&center=true&vCenter=true&width=800&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+Z%E1%BB%8Bt+Tech+Lab!+%F0%9F%A6%86;Nghi%C3%AAn+c%E1%BB%A9u+%26+T%E1%BB%91i+%C6%B0u+h%C3%B3a+h%E1%BB%87+th%E1%BB%91ng+Windows+%E2%9A%A1;Ph%E1%BA%A7n+m%E1%BB%81m+ch%E1%BB%A7+l%E1%BB%B1c%3A+HyperLis+(IT+Support)+%F0%9F%9B%A0%EF%B8%8F;Trang+ch%E1%BB%A7+ch%C3%ADnh+th%E1%BB%A9c%3A+zittechlab.com+%F0%9F%8C%90&v=2" alt="Zịt Tech Lab Typing SVG" />
   </a>
 
   <!-- Badges Ribbon -->
