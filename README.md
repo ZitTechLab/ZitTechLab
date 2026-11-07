@@ -25,7 +25,7 @@
 
 ### 🦆 Giới thiệu về Zịt Tech Lab (About Us)
 
-**Zịt Tech Lab (Zịt's Tech Lab)** là một tổ chức nghiên cứu và phát triển phần mềm độc lập, hướng tới việc sáng tạo các công cụ quản trị hệ thống, tối ưu hóa hệ điều hành Windows và giải pháp hỗ trợ kỹ thuật IT Helpdesk chuyên sâu.
+**Zịt Tech Lab (Zịt's Tech Lab)** là nhóm sinh viên nghiên cứu và phát triển phần mềm độc lập tại Việt Nam, hướng tới việc sáng tạo các công cụ quản trị hệ thống, tối ưu hóa hệ điều hành Windows và giải pháp hỗ trợ kỹ thuật IT Helpdesk chuyên sâu.
 
 - 🎯 **Sứ mệnh**: Xây dựng các giải pháp tiện ích máy tính ổn định, hiệu năng cao, đồng thời chia sẻ kiến thức kỹ thuật phần mềm hệ thống và truyền cảm hứng cho cộng đồng lập trình viên, sinh viên đam mê công nghệ.
 - ⚡ **Thế mạnh nghiên cứu**: Ứng dụng Desktop Windows native (.NET / C#), tự động hóa quản trị hệ điều hành với PowerShell, chẩn đoán & tinh chỉnh tài nguyên hệ thống.
@@ -42,7 +42,7 @@
 | :--- | :--- | :--- |
 | **[HyperLis](https://github.com/ZitTechLab/HyperLis)**<br><sub>*A Software for IT Support*</sub> | Phần mềm cứu hộ, chẩn đoán sự cố, dọn dẹp và tối ưu hóa hệ thống Windows chuyên dụng dành cho kỹ thuật viên IT Helpdesk và người dùng nâng cao. | [![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/ZitTechLab/HyperLis) [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/ZitTechLab/HyperLis)<br>[![License](https://img.shields.io/badge/License-HSAL--1.0-orange?style=flat-square)](https://github.com/ZitTechLab/HyperLis)<br>[![Stars](https://img.shields.io/github/stars/ZitTechLab/HyperLis?style=flat-square&logo=github&color=0052D4)](https://github.com/ZitTechLab/HyperLis/stargazers) [![Forks](https://img.shields.io/github/forks/ZitTechLab/HyperLis?style=flat-square&logo=github&color=4364F7)](https://github.com/ZitTechLab/HyperLis/network/members) |
 | **[HyperLis Documentation](https://github.com/ZitTechLab/HyperLis_Documentation)** | Kho tài liệu kỹ thuật, kiến trúc module và cẩm nang hướng dẫn sử dụng chi tiết hệ sinh thái phần mềm HyperLis. | [![JavaScript](https://img.shields.io/badge/Stack-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ZitTechLab/HyperLis_Documentation) [![Docs](https://img.shields.io/badge/Type-Documentation-blue?style=flat-square)](https://github.com/ZitTechLab/HyperLis_Documentation) |
-| **[WSAP](https://github.com/ZitTechLab/WSAP)** | Bộ công cụ và kịch bản quản trị hệ thống, tối ưu quy trình thao tác trên môi trường Windows. | [![Automation](https://img.shields.io/badge/Category-Automation%20%26%20Utilities-512BD4?style=flat-square)](https://github.com/ZitTechLab/WSAP) |
+| **[WSAP](https://github.com/ZitTechLab/WSAP)** | Bộ công cụ cài đặt Windows tự động không cần dùng đến USB Boot. | [![Automation](https://img.shields.io/badge/Category-Automation%20%26%20Utilities-512BD4?style=flat-square)](https://github.com/ZitTechLab/WSAP) |
 
 </div>
 
